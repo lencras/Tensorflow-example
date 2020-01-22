@@ -9,4 +9,4 @@ New codes will be uploaded upon completion as my Final Year Project is still in 
 
 Original code gotten from: https://pythonprogramming.net/
 
-I only editted the code to my suit my needs
+I only revised the code to my own requirements
